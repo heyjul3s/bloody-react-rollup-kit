@@ -6,7 +6,7 @@
   "license": "MIT",
   "scripts": {
     "docz-dev": "docz dev --config config/doczrc.js",
-    "docz-build": "docz build",
+    "docz-build": "docz build --config config/doczrc.js",
     "commit": "npx git-cz",
     "build": "rollup  --config config/rollup.config.js",
     "bundlesize": "bundlesize --config config/bundlesize.config.js",
