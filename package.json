@@ -5,7 +5,7 @@
   "description": "A rollup starter kit for developing React packages",
   "license": "MIT",
   "scripts": {
-    "docz-dev": "docz dev",
+    "docz-dev": "docz dev --config config/doczrc.js",
     "docz-build": "docz build",
     "commit": "npx git-cz",
     "build": "rollup  --config config/rollup.config.js",
