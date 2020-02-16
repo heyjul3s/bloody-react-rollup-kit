@@ -4,7 +4,7 @@ import { uglify } from 'rollup-plugin-uglify';
 const config = {
   input: 'src/index.tsx',
   output: {
-    file: 'lib/index.js',
+    file: 'build/index.js',
     format: 'esm',
   },
   external: ['react'],
