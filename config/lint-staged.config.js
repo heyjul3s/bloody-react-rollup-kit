@@ -1,5 +1,3 @@
 module.exports = {
-  'lint-staged': {
-    '*.(ts|tsx)': 'eslint',
-  },
+  '*.(ts|tsx)': 'eslint',
 };
