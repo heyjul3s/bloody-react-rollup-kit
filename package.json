@@ -31,7 +31,6 @@
     "@types/testing-library__react": "^9.1.2",
     "@typescript-eslint/eslint-plugin": "^2.19.2",
     "@typescript-eslint/parser": "^2.19.2",
-    "@welldone-software/why-did-you-render": "^4.0.3",
     "babel-jest": "^25.1.0",
     "babel-loader": "^8.0.6",
     "bundlesize": "^0.18.0",
