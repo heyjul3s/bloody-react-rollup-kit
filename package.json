@@ -5,6 +5,8 @@
   "description": "A rollup starter kit for developing React packages",
   "license": "MIT",
   "scripts": {
+    "cosmos": "cosmos",
+    "cosmos:export": "cosmos-export",
     "docz-dev": "docz dev --config config/doczrc.js",
     "docz-build": "docz build --config config/doczrc.js",
     "commit": "npx git-cz",
@@ -53,6 +55,7 @@
     "lint-staged": "^10.0.7",
     "react": "^16.12.0",
     "react-codesandboxer": "^3.1.5",
+    "react-cosmos": "^5.0.8",
     "react-dom": "^16.12.0",
     "rollup": "^1.31.1",
     "rollup-plugin-babel": "^4.3.3",
